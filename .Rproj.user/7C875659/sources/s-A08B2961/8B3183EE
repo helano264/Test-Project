@@ -1,0 +1,25 @@
+{
+    "id": "8B3183EE",
+    "path": "~/R/Test Project/hello.R",
+    "project_path": "hello.R",
+    "type": "r_source",
+    "hash": "4207608571",
+    "contents": "",
+    "dirty": false,
+    "created": 1595998517258.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "0,18",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1595998530,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595998530643,
+    "read_only": false,
+    "read_only_alternatives": []
+}
